@@ -565,7 +565,7 @@
       "name": "Codex Auto Reset",
       "description": "Automatically redeems soonest-expiring Codex Reset Bank credits before they expire, with idempotent retry, triple verification, and a bilingual management UI with reset statistics.",
       "author": "Jeffery",
-      "version": "0.1.2",
+      "version": "0.1.4",
       "repository": "https://github.com/JefferyZhang2019/cpa-plugin-codex-auto-reset",
       "homepage": "https://github.com/JefferyZhang2019/cpa-plugin-codex-auto-reset",
       "license": "MIT",
